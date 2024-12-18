@@ -1,1 +1,1 @@
-# NonSon_Testing
+Đồ án "KIỂM THỬ WEBSITE NÓN SƠN" được thực hiện nhằm tìm hiểu và áp dụng các phương pháp kiểm thử vào việc kiểm tra chất lượng của một website thương mại điện tử cụ thể. Website Nón Sơn là một nền tảng mua sắm trực tuyến chuyên cung cấp các sản phẩm nón và phụ kiện thời trang, với mục tiêu mang đến trải nghiệm mua sắm dễ dàng và thuận tiện cho khách hàng. Tuy nhiên, để đáp ứng được các yêu cầu cao về chất lượng và tính năng, website cần phải trải qua các bước kiểm thử chi tiết để phát hiện và khắc phục các lỗi.
